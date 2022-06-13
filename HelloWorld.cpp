@@ -20,7 +20,10 @@ int main() {
           for (int z = 0; z < 10 ; z++){
                cout << z << endl;
           }
-          
+          //another for loop
+          for (int a=0; a <= 15; a = a + 2){
+               cout << a << endl;
+          }
 
 
   return 0;
